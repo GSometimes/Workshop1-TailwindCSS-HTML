@@ -1,10 +1,11 @@
 # Workshop # 1 - HTML/TailwindCSS
   
 
-Before we get started I wanted to start by saying thank you for joining me today. As you may, or may not, have seen on my LinkedIn post announcing this first workshop, a goal of mine is to be in a position to help others. One of those ways I'm looking to make that impact is through teaching. 
+I want to start by saying thank you for joining me today. As you may, or may not, have seen on my LinkedIn post announcing this first workshop, a goal of mine is to be in a position to help others. One of those ways I'm looking to make that impact is through teaching. 
 
-Before I was made the career change to becoming a frontend developer I was a chef for the last ten years. Two of my favorite things that I got to do in the restaurant industry was be a trainer and to do restaurant openings. I really find a sense of purpose by helping others grow and it was an amazing experience to constantly train new people in multiple facets of a restaurant.
+Before I made the career change to becoming a frontend developer I was a chef for the last ten years. Two of my favorite things that I got to do in the restaurant industry was be a trainer and to do restaurant openings. I really find a sense of purpose by helping others grow and it was an amazing experience to constantly train new people in multiple facets of a restaurant.
 
+Now, the build!
   
 ## Project Overview - Palette
   
