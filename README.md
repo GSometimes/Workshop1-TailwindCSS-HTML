@@ -1,7 +1,7 @@
 # Workshop # 1 - HTML/TailwindCSS
   
 
-I want to start by saying thank you for joining me today. A goal of mine has always been to be in a position to help others. One of those ways I'm looking to make that impact is through teaching. 
+I want to start by saying thank you for joining me today. A goal of mine has always been to be in a position to help others and to make an impact in some way. One of those ways I'm looking to make that impact is through teaching. 
 
 Before I made the career change to becoming a frontend developer I was a chef for the last ten years. Two of my favorite things that I got to do in the restaurant industry was be a trainer and to do restaurant openings. I really find a sense of purpose by helping others grow and it was an amazing experience to constantly train new people in multiple facets of a restaurant.
 
