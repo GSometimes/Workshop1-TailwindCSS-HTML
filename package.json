@@ -1,0 +1,25 @@
+{
+  "name": "Workshop1-TailwindCSS-HTML",
+  "version": "1.0.0",
+  "description": "I want to start by saying thank you for joining me today. A goal of mine has always been to be in a position to help others and to make an impact in some way. One of those ways I'm looking to make that impact is through teaching.",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSometimes/Workshop1-TailwindCSS-HTML.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSometimes/Workshop1-TailwindCSS-HTML/issues"
+  },
+  "homepage": "https://github.com/GSometimes/Workshop1-TailwindCSS-HTML#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2"
+  }
+}
